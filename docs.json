@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Practical Interview Notes",
+  "description": "Evidence-based notes for better interview preparation",
+  "content": {
+    "showPageTitle": true
+  }
+}
